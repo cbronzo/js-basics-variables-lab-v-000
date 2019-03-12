@@ -5,4 +5,4 @@ const companyName = 'Scuber';
 
 let mostProfitableNeighborhood = 'Chelsea';
 
-const companyCEO
+const companyCeo = ''
